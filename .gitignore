@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# ASSETS PACK
+Content/ModSci_Engineer
+Content/ModSci_EngiProps
+Content/ModSciInteriors
+Content/ParagonMinions
+Content/StarterBundle
+Content/StarterContent
